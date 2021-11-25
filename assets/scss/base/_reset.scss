@@ -1,0 +1,13 @@
+@use '../abstracts' as a;
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  //background-color: a.$black;
+}
+
+// reset rems so it's 1 : 1 with px
+html{
+  font-size: 62.5%;
+}

@@ -1,0 +1,161 @@
+{
+    "key": "group_6034d248931da",
+    "title": "Firmainformationer",
+    "fields": [
+        {
+            "key": "field_6034d2510f067",
+            "label": "Logo",
+            "name": "firma_logo",
+            "type": "image",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "return_format": "id",
+            "preview_size": "medium",
+            "library": "all",
+            "min_width": "",
+            "min_height": "",
+            "min_size": "",
+            "max_width": "",
+            "max_height": "",
+            "max_size": "",
+            "mime_types": ""
+        },
+        {
+            "key": "field_6034d25e0f068",
+            "label": "Firmanavn",
+            "name": "firma_navn",
+            "type": "text",
+            "instructions": "Shortcode: [firma_navn]",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_6034d29c0f069",
+            "label": "Adresse",
+            "name": "firma_adresse",
+            "type": "text",
+            "instructions": "Shortcode: [firma_adresse]",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_6034d2a70f06a",
+            "label": "Postnr.",
+            "name": "firma_postnr",
+            "type": "text",
+            "instructions": "Shortcode: [firma_postnr]",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_6034d2b50f06b",
+            "label": "By",
+            "name": "firma_by",
+            "type": "text",
+            "instructions": "Shortcode: [firma_by]",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_6034d2c30f06c",
+            "label": "E-mail",
+            "name": "firma_mail",
+            "type": "email",
+            "instructions": "Shortcode: [firma_email]",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+        },
+        {
+            "key": "field_6034d2d30f06d",
+            "label": "Telefon",
+            "name": "firma_telefon",
+            "type": "text",
+            "instructions": "Shortcode: [firma_telefon]",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "options_page",
+                "operator": "==",
+                "value": "globale-indstillinger"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "modified": 1618576293
+}
