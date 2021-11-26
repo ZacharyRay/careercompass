@@ -30,7 +30,7 @@ function create_custom_posttype() {
               
             ),
             'capability_type' => 'post',
-            'rewrite' => array('slug' => 'custom_posttype'), //EDIT
+            'rewrite' => array('slug' => 'jobs'), //EDIT
             'menu_position'   => 7,
             'menu_icon' => 'dashicons-admin-page', //https://developer.wordpress.org/resource/dashicons
             'public' => true,
